@@ -1,0 +1,34 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.caja {
+	width:200px;
+	height:200px;
+	position: relative;
+}
+.roja{
+	background-color: #ee3e64;	
+	position:relative;
+	left:0;
+	top:0;
+}
+.azul{
+	background-color: #44accf;
+	position: absolute;
+	right:70.6%;
+    top: 200px;
+}
+
+.verde{
+	background-color: #b7d84b;
+	position:relative;
+	left:0;
+	bottom:0:;
+}
+.amarilla{
+	background-color: #FFFF00;
+	position: relative;
+	right:0;
+	bottom:0;
+}
